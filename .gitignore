@@ -1,0 +1,16 @@
+# ignore everything besides the whitelisted files below
+/*
+
+# WHITELIST
+# python files
+!*.py
+
+# package manager and inactive files
+!Pipfile
+!Pipfile.lock
+!*.gitignore
+!*.md
+
+# misc other files typically used in projects
+!*.txt
+!/webpages
